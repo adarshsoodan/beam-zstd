@@ -1,2 +1,2 @@
-# beam-zstd
+# ZStdCoder
 ZStd coder for Apache Beam
